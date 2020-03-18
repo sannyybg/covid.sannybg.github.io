@@ -1,0 +1,370 @@
+#maindiv {
+    width: 70%;
+    height: 84%;
+    border-radius: 8px;
+}
+
+.sound1 {
+   display: none;
+}
+
+
+
+#virusname {
+    width: 32%;
+    height: 6%;
+    border-radius: 4px;
+    background-color: rgb(201, 147, 0);
+    border: black 2px solid;
+    font-family: 'Audiwide', serif;
+    overflow: hidden;
+    font-family: 'Titan One', cursive;
+    font-size: 36px;
+}
+
+
+.oneblock {
+    width: 9%;
+    height: 9%;
+    display: inline-block;
+    border-radius: 40%;
+}
+
+#imagev {
+    width: 100%;
+    height: 100%;
+}
+
+#imageoneone {
+    display: none;
+}
+#imageonetwo {
+    display: none;
+}
+#imageonetre {
+    display: none;
+}
+#imageonefour {
+    display: none;
+}
+#imageonefive {
+    display: none;
+}
+#imageonesix {
+    display: none;
+}
+#imageoneseven {
+    display: none;
+}
+#imageoneeight {
+    display: none;
+}
+#imageonenein {
+    display: none;
+}
+#imageonenull {
+    display: none;
+}
+
+
+
+
+
+#imagetwoone {
+    display: none;
+}
+#imagetwotwo {
+    display: none;
+}
+#imagetwotre {
+    display: none;
+}
+#imagetwofour {
+    display: none;
+}
+#imagetwofive {
+    display: none;
+}
+#imagetwosix {
+    display: none;
+}
+#imagetwoseven {
+    display: none;
+}
+#imagetwoeight {
+    display: none;
+}
+#imagetwonein {
+    display: none;
+}
+#imagetwonull {
+    display: none;
+}
+
+
+
+#imagetreone {
+    display: none;
+}
+#imagetretwo {
+    display: none;
+}
+#imagetretre {
+    display: none;
+}
+#imagetrefour {
+    display: none;
+}
+#imagetrefive {
+    display: none;
+}
+#imagetresix {
+    display: none;
+}
+#imagetreseven {
+    display: none;
+}
+#imagetreeight {
+    display: none;
+}
+#imagetrenein {
+    display: none;
+}
+#imagetrenull {
+    display: none;
+}
+
+
+
+
+#imagefourone {
+    display: none;
+}
+#imagefourtwo {
+    display: none;
+}
+#imagefourtre {
+    display: none;
+}
+#imagefourfour {
+    display: none;
+}
+#imagefourfive {
+    display: none;
+}
+#imagefoursix {
+    display: none;
+}
+#imagefourseven {
+    display: none;
+}
+#imagefoureight {
+    display: none;
+}
+#imagefournein {
+    display: none;
+}
+#imagefournull {
+    display: none;
+}
+
+
+
+
+#imagefiveone {
+    display: none;
+}
+#imagefivetwo {
+    display: none;
+}
+#imagefivetre {
+    display: none;
+}
+#imagefivefour {
+    display: none;
+}
+#imagefivefive {
+    display: none;
+}
+#imagefivesix {
+    display: none;
+}
+#imagefiveseven {
+    display: none;
+}
+#imagefiveeight {
+    display: none;
+}
+#imagefivenein {
+    display: none;
+}
+#imagefivenull {
+    display: none;
+}
+
+
+
+
+#imagesixone {
+    display: none;
+}
+#imagesixtwo {
+    display: none;
+}
+#imagesixtre {
+    display: none;
+}
+#imagesixfour {
+    display: none;
+}
+#imagesixfive {
+    display: none;
+}
+#imagesixsix {
+    display: none;
+}
+#imagesixseven {
+    display: none;
+}
+#imagesixeight {
+    display: none;
+}
+#imagesixnein {
+    display: none;
+}
+#imagesixnull {
+    display: none;
+}
+
+
+
+#imagesevenone {
+    display: none;
+}
+#imageseventwo {
+    display: none;
+}
+#imageseventre {
+    display: none;
+}
+#imagesevenfour {
+    display: none;
+}
+#imagesevenfive {
+    display: none;
+}
+#imagesevensix {
+    display: none;
+}
+#imagesevenseven {
+    display: none;
+}
+#imageseveneight {
+    display: none;
+}
+#imagesevennein {
+    display: none;
+}
+#imagesevennull {
+    display: none;
+}
+
+
+
+
+#imageeightone {
+    display: none;
+}
+#imageeighttwo {
+    display: none;
+}
+#imageeighttre {
+    display: none;
+}
+#imageeightfour {
+    display: none;
+}
+#imageeightfive {
+    display: none;
+}
+#imageeightsix {
+    display: none;
+}
+#imageeightseven {
+    display: none;
+}
+#imageeighteight {
+    display: none;
+}
+#imageeightnein {
+    display: none;
+}
+#imageeightnull {
+    display: none;
+}
+
+
+
+#imageneinone {
+    display: none;
+}
+#imageneintwo {
+    display: none;
+}
+#imageneintre {
+    display: none;
+}
+#imageneinfour {
+    display: none;
+}
+#imageneinfive {
+    display: none;
+}
+#imageneinsix {
+    display: none;
+}
+#imageneinseven {
+    display: none;
+}
+#imageneineight {
+    display: none;
+}
+#imageneinnein {
+    display: none;
+}
+#imageneinnull {
+    display: none;
+}
+
+
+
+#imagenullone {
+    display: none;
+}
+#imagenulltwo {
+    display: none;
+}
+#imagenulltre {
+    display: none;
+}
+#imagenullfour {
+    display: none;
+}
+#imagenullfive {
+    display: none;
+}
+#imagenullsix {
+    display: none;
+}
+#imagenullseven {
+    display: none;
+}
+#imagenulleight {
+    display: none;
+}
+#imagenullnein {
+    display: none;
+}
+#imagenullnull {
+    display: none;
+}
